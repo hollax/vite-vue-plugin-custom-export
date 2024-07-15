@@ -1,0 +1,27 @@
+{
+  "name": "@holax/vite-vue-plugin-custom-export",
+  "version": "1.0.0",
+  "description": "Generate default export for VUe 3 components that is rexported in another file",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hollax/vite-vue-plugin-custom-export.git"
+  },
+  "keywords": [
+    "Vue3",
+    "Typscript",
+    "Vite",
+    "Plugin",
+    "Build",
+    "Tool"
+  ],
+  "author": "Wakeel Ogunsanya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hollax/vite-vue-plugin-custom-export/issues"
+  },
+  "homepage": "https://github.com/hollax/vite-vue-plugin-custom-export#readme"
+}
